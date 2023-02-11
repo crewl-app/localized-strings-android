@@ -16,6 +16,6 @@ allprojects {
 
 ```gradle
 dependencies {
-  implementation 'com.github.crewl-app:localized-strings-android:Tag'
+  implementation 'com.github.crewl-app:localized-strings-android:{$versionCode}'
 }
 ```
