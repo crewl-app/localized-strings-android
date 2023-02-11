@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EXPLORE_EVENTS_AROUND">Etrafındaki etkinlikleri keşfet</string>
+    <string name="MEET_NEW_PEOPLE_AND_COMPETE">Yeni insanlarla tanış ve rekabet et</string>
+    <string name="GET_SPECIAL_DISCOUNTS_AND_TRY_DIFFERENT_FLAVORS">Özel indirimler kazan ve farklı tatları dene</string>
+    <string name="EXPERIENCE_AN_UNFORGETTABLE_NIGHT">Unutulmayacak bir gece deneyimle</string>
+    <string name="CREATE_EVENTS_FOR_PEOPLE_OR_JOIN_ORGANIZED_EVENTS">İnsanlar için etkinlik oluştur veya düzenlenen etkinliklere katıl.</string>
+    <string name="FIND_NEW_PEOPLE_IN_YOUR_CITY_CREATE_YOUR_TEAM_AT_EVENTS">Şehrindeki yeni insanları bul, etkinliklerde ekibini oluştur ve ödül kazan.</string>
+    <string name="TRY_SPECIAL_DRINKS_OF_THE_BARS_YOU_VISIT">Gittiğin barların özel içeceklerini dene ve Crewl üyeliğine özel indirimlerin tadını çıkar.</string>
+    <string name="JOIN_NOW_AND_BE_PART_OF_THE_STORY">Şimdi katıl ve hikayenin bir parçası ol. Seni aramızda görmek için sabırsızlanıyoruz.</string>
+    <string name="CONTINUE">Devam Et</string>
+    <string name="LOGIN">Giriş Yap</string>
+    <string name="REGISTER">Kayıt Ol</string>
+    <string name="WHAT_IS_YOUR_PHONE_NUMBER">Telefon numaran nedir?</string>
+    <string name="FOR_EVERYONE_TO_BE_SAFE_IN_CREWL_I_NEED_TO_CONFIRM">Crewl’da herkesin güvende olması için senin gerçek bir insan olduğunu doğrulamam gerekiyor. </string>
+    <string name="MAKE_SURE_YOU_ENTERED_PHONE_NUMBER_CORRECTLY">Numaranı doğru girdiğinden emin ol. Sana bir SMS kodu yollayacağım.</string>
+    <string name="TERMS_OF_SERVICE">Kullanım Koşulları</string>
+    <string name="PRIVACY_POLICY">Gizlilik Politikası</string>
+    <string name="AND">ve</string>
+    <string name="I_READ_AND_AGREE">i‘ni okudum ve kabul ediyorum.</string>
+    <string name="COUNTRY_CODE">Ülke Kodu</string>
+    <string name="SEARCH">Ara</string>
+    <string name="THANKS_NOW_I_NEED_TO_VERIFY_YOUR_NUMBER">Teşekkürler, şimdi numaranı doğrulamam gerekiyor.</string>
+    <string name="I_SENT_A_CODE_TO_NUMBER">numarasına bir kod yolladım.</string>
+    <string name="SEND_CODE">Onay Kodu Gönder</string>
+    <string name="RESEND_CODE">Kodu Yeniden Gönder</string>
+    <string name="CONFIRM_CODE">Kodu Onayla</string>
+    <string name="CODE_IS_INCORRECT_TRY_AGAIN">Kod hatalı. Tekrar dene.</string>
+    <string name="SUCCESSFULLY_VERIFIED_I_GUESS_YOU_ARE_REALLY_A_HUMAN">Başarıyla doğruladım. Sanırım gerçekten de insansın.</string>
+    <string name="LETS_CONTINUE">Devam edelim mi?</string>
+</resources>
