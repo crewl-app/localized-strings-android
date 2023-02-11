@@ -17,7 +17,7 @@
     <string name="TERMS_OF_SERVICE">Kullanım Koşulları</string>
     <string name="PRIVACY_POLICY">Gizlilik Politikası</string>
     <string name="AND">ve</string>
-    <string name="I_READ_AND_AGREE">i‘ni okudum ve kabul ediyorum.</string>
+    <string name="I_READ_AND_AGREE">‘nı okudum ve kabul ediyorum.</string>
     <string name="COUNTRY_CODE">Ülke Kodu</string>
     <string name="SEARCH">Ara</string>
     <string name="THANKS_NOW_I_NEED_TO_VERIFY_YOUR_NUMBER">Teşekkürler, şimdi numaranı doğrulamam gerekiyor.</string>
@@ -28,4 +28,6 @@
     <string name="CODE_IS_INCORRECT_TRY_AGAIN">Kod hatalı. Tekrar dene.</string>
     <string name="SUCCESSFULLY_VERIFIED_I_GUESS_YOU_ARE_REALLY_A_HUMAN">Başarıyla doğruladım. Sanırım gerçekten de insansın.</string>
     <string name="LETS_CONTINUE">Devam edelim mi?</string>
+    <string name="PHONE_NUMBER">Telefon Numarası</string>
+    <string name="STAR_INPUT">* </string>
 </resources>

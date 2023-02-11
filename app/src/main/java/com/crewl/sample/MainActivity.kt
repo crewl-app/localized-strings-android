@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         CrewlLocalization.init(context = applicationContext, supportedLanguages = listOf("tr"))
+
+        Log.i("App.tag", "onCreate: " + resString(com.crewl.localized_strings_android.R.string.CONTINUE))
     }
 
     companion object {
