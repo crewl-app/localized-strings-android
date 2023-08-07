@@ -11,7 +11,7 @@
     <string name="CONTINUE">Devam Et</string>
     <string name="LOGIN">Giriş Yap</string>
     <string name="REGISTER">Kayıt Ol</string>
-    <string name="WHAT_IS_YOUR_PHONE_NUMBER">Telefon numaran nedir?</string>
+    <string name="WHAT_IS_YOUR_PHONE_NUMBER">Telefon numaranı gir</string>
     <string name="FOR_EVERYONE_TO_BE_SAFE_IN_CREWL_I_NEED_TO_CONFIRM">Crewl’da herkesin güvende olması için senin gerçek bir insan olduğunu doğrulamam gerekiyor. </string>
     <string name="MAKE_SURE_YOU_ENTERED_PHONE_NUMBER_CORRECTLY">Numaranı doğru girdiğinden emin ol. Sana bir SMS kodu yollayacağım.</string>
     <string name="TERMS_OF_SERVICE">Kullanım Koşulları</string>
@@ -20,7 +20,7 @@
     <string name="I_READ_AND_AGREE">‘nı okudum ve kabul ediyorum.</string>
     <string name="COUNTRY_CODE">Ülke Kodu</string>
     <string name="SEARCH">Ara</string>
-    <string name="THANKS_NOW_I_NEED_TO_VERIFY_YOUR_NUMBER">Teşekkürler, şimdi numaranı doğrulamam gerekiyor.</string>
+    <string name="THANKS_NOW_I_NEED_TO_VERIFY_YOUR_NUMBER">Numaranı doğrula</string>
     <string name="I_SENT_A_CODE_TO_NUMBER">numarasına bir kod yolladım.</string>
     <string name="SEND_CODE">Onay Kodu Gönder</string>
     <string name="RESEND_CODE">Kodu Yeniden Gönder</string>
@@ -30,4 +30,9 @@
     <string name="LETS_CONTINUE">Devam edelim mi?</string>
     <string name="PHONE_NUMBER">Telefon Numarası</string>
     <string name="STAR_INPUT">* </string>
+    <string name="WHAT_IS_YOUR_NAME">İsmin nedir</string>
+    <string name="OTHER_PEOPLE_CAN_SEE_ONLY_YOUR_NAME">Diğer kullanıcılar sadece ismini görebilir.</string>
+    <string name="WHAT_IS_YOUR_GENDER">Cinsiyetin nedir</string>
+    <string name="WHAT_IS_YOUR_BIRTHDATE">Ne zaman doğdun</string>
+    <string name="OTHER_PEOPLE_CAN_SEE_ONLY_YOUR_AGE">Diğer kullanıcılar sadece yaşını görebilir.</string>
 </resources>
