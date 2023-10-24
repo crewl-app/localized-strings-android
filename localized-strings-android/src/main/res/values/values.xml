@@ -35,4 +35,20 @@
     <string name="WHAT_IS_YOUR_GENDER">Cinsiyetin nedir</string>
     <string name="WHAT_IS_YOUR_BIRTHDATE">Ne zaman doğdun</string>
     <string name="OTHER_PEOPLE_CAN_SEE_ONLY_YOUR_AGE">Diğer kullanıcılar sadece yaşını görebilir.</string>
+    <string name="TO_REGISTER_YOU_MUST_BE_18_YEARS_OF_AGE_OR_OLDER">Kayıt olmak için 18 yaşından büyük olmalısın.</string>
+    <string name="YOUR_DATE_OF_BIRTH_WILL_NOT_BE_VISIBLE_TO_OTHER_USERS">Doğum tarihin diğer kullanıcılara gözükmeyecek.</string>
+    <string name="WHERE_ARE_YOU_RIGHT_NOW">Şu an neredesin?</string>
+    <string name="OTHER_USERS_CANNOT_SEE_YOUR_LOCATION">Diğer kullanıcılar lokasyonunu göremez.</string>
+    <string name="AUTO_TAG">Otomatik İşaretle</string>
+    <string name="UPLOAD_A_PHOTO">Fotoğrafını yükle</string>
+    <string name="PLEASE_UPLOAD_A_PHOTO_OF_YOURSELF_WITH_YOUR_FACE_VISIBLE_YOU_CAN_CHANGE_YOUR_PHOTO_AT_ANY_TIME">Lütfen yüzünün gözüktüğü bir fotoğrafını yükle. Fotoğrafını istediğin zaman değiştirebilirsin.</string>
+    <string name="SELECT_FROM_GALLERY">Galeriden Seç</string>
+    <string name="TAKE_A_PHOTO">Fotoğraf Çek</string>
+    <string name="NOW_WE_CAN_CREATE_YOUR_PROFILE">Şimdi profilini oluşturabiliriz.</string>
+    <string name="TURN_ON_LOCATION_SERVICES">Konum servislerini aç</string>
+    <string name="YOU_NEED_TO_GRANT_LOCATION_PERMISSION_FOR_US_TO_SHOW_YOU_NEARBY_ACTIVITIES">Etrafındaki etkinlikleri sana göstermemiz için lokasyon izni vermen gerekiyor.</string>
+    <string name="LATER">Daha sonra</string>
+    <string name="ALLOW">İzin ver</string>
+    <string name="TURN_ON_NOTIFICATIONS">Bildirimlerini aç</string>
+    <string name="GIVE_PERMISSION_TO_SEND_YOU_NOTIFICATIONS_HOW_ELSE_WILL_YOU_STAY_INFORMED_ABOUT">Sana haber yollamamız için bildirim izni ver. Yoksa olan bitenden nasıl haberdar olacaksın?</string>
 </resources>
